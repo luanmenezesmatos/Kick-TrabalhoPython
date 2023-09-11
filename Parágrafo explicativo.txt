@@ -1,0 +1,7 @@
+texto = (
+    "A desigualdade na educação brasileira é uma questão complexa e multifacetada que reflete muitos dos "
+    "desafios sociais e econômicos enfrentados pelo país. Embora tenha havido avanços significativos nas "
+    "últimas décadas, a disparidade persiste em várias dimensões do sistema educacional brasileiro, afetando "
+    "o acesso, a qualidade e os resultados da educação para diferentes grupos de pessoas. O compromisso com "
+    "a igualdade educacional é fundamental para criar um país mais justo, produtivo e próspero."
+)
